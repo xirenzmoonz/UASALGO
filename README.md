@@ -1,4 +1,4 @@
-# UASALGO 
+# UASALGO GUSNALDI PRAMUDITA
 
 Sistem Input Perangkat Jaringan
 Program tersebut digunakan untuk mengelola data perangkat jaringan seperti  router,access point,switch, dan lain lain, dibuatnya program ini bertujuan untuk memudahkan teknisi dalam maintence untuk mengetahui perangkat apa serta gateway dari perangkat tersebut, program ini dibuat menggunakan Bahasa pemograman Java dengan Konsep OOP ( Object-Oriented Programming ). Program yang saya buat memuat fitur :
